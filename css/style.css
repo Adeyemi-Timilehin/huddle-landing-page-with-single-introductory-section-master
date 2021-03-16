@@ -8,6 +8,7 @@
 }
 body{
     background-color: var(--bgcolour);
+    background-img:url("../images/bg-desktop.svg");
     color: var(--color);
 font-weight: var(--fw);
 }
